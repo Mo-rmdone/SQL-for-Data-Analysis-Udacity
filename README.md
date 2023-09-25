@@ -1,2 +1,2 @@
 # SQL-for-Data-Analysis-Udacity
-Sql queries from SQL for Data Analysis Udacity course
+SQL queries from SQL for Data Analysis Udacity course
